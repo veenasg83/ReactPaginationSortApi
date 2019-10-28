@@ -1,0 +1,14 @@
+D:\Veena\IndustryConnect\Practical\TestReactAPIPjt\reactmovie.api\bin\Debug\netcoreapp2.2\reactmovie.api.deps.json
+D:\Veena\IndustryConnect\Practical\TestReactAPIPjt\reactmovie.api\bin\Debug\netcoreapp2.2\reactmovie.api.runtimeconfig.json
+D:\Veena\IndustryConnect\Practical\TestReactAPIPjt\reactmovie.api\bin\Debug\netcoreapp2.2\reactmovie.api.runtimeconfig.dev.json
+D:\Veena\IndustryConnect\Practical\TestReactAPIPjt\reactmovie.api\bin\Debug\netcoreapp2.2\reactmovie.api.dll
+D:\Veena\IndustryConnect\Practical\TestReactAPIPjt\reactmovie.api\bin\Debug\netcoreapp2.2\reactmovie.api.pdb
+D:\Veena\IndustryConnect\Practical\TestReactAPIPjt\reactmovie.api\obj\Debug\netcoreapp2.2\reactmovie.api.csprojAssemblyReference.cache
+D:\Veena\IndustryConnect\Practical\TestReactAPIPjt\reactmovie.api\obj\Debug\netcoreapp2.2\reactmovie.api.csproj.CoreCompileInputs.cache
+D:\Veena\IndustryConnect\Practical\TestReactAPIPjt\reactmovie.api\obj\Debug\netcoreapp2.2\reactmovie.api.RazorAssemblyInfo.cache
+D:\Veena\IndustryConnect\Practical\TestReactAPIPjt\reactmovie.api\obj\Debug\netcoreapp2.2\reactmovie.api.RazorAssemblyInfo.cs
+D:\Veena\IndustryConnect\Practical\TestReactAPIPjt\reactmovie.api\obj\Debug\netcoreapp2.2\reactmovie.api.AssemblyInfoInputs.cache
+D:\Veena\IndustryConnect\Practical\TestReactAPIPjt\reactmovie.api\obj\Debug\netcoreapp2.2\reactmovie.api.AssemblyInfo.cs
+D:\Veena\IndustryConnect\Practical\TestReactAPIPjt\reactmovie.api\obj\Debug\netcoreapp2.2\reactmovie.api.RazorTargetAssemblyInfo.cache
+D:\Veena\IndustryConnect\Practical\TestReactAPIPjt\reactmovie.api\obj\Debug\netcoreapp2.2\reactmovie.api.dll
+D:\Veena\IndustryConnect\Practical\TestReactAPIPjt\reactmovie.api\obj\Debug\netcoreapp2.2\reactmovie.api.pdb
